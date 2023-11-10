@@ -7,3 +7,6 @@
 echo
 echo Hello world
 echo
+p=pwd
+echo $p
+
